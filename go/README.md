@@ -1,9 +1,6 @@
 # Golang
 
-Created: December 7, 2023 10:01 AM
-Type: Lecture
-Link: https://pro.academind.com/p/golang-the-practical-guide
-Reviewed: No
+This is my golang note:
 
 [Getting started](Getting%20started.md)
 
